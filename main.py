@@ -19,3 +19,6 @@ ex_6 = 3.21
 print(type(ex_6))
 new_ex_6 = str(ex_6)
 print(type(new_ex_6))
+
+##escape sequences
+## \t tab -> sen c bilen adamsin bunu mu bilmeyeceksin
