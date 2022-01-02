@@ -22,3 +22,7 @@ print(type(new_ex_6))
 
 ##escape sequences
 ## \t tab -> sen c bilen adamsin bunu mu bilmeyeceksin
+
+#'input
+name = input("enter name\n")
+print(" your name " + name + ".")
